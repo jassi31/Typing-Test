@@ -7,7 +7,7 @@ Typing Test is a simple web application to implement WebSocket functionality. Th
 Use the git clone  to download the repository
 
 ```bash
-git clone https://github.com/nishanksrj/TypingTest.git
+git clone https://github.com/jassi31/Typing-Test.git
 ```
 
 
